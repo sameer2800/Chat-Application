@@ -1,3 +1,14 @@
+##screenshots :
+ 
+ server - 
+  ![alt tag](https://github.com/sameer2800/Chat-Application/blob/master/server.jpg)
+  
+ client -
+  ![alt tag](https://github.com/sameer2800/Chat-Application/blob/master/client.jpg)
+
+
+
+
 ##Description :
 	
 	A java GUI based Chat application made by using socket programming and
