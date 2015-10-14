@@ -1,12 +1,11 @@
 ##screenshots :
  
- 
-	 ![alt tag](https://github.com/sameer2800/Chat-Application/blob/master/server.jpg)
+ ![alt tag](https://github.com/sameer2800/Chat-Application/blob/master/server.jpg)
   	
   				server 
   	
 
-  	![alt tag](https://github.com/sameer2800/Chat-Application/blob/master/client.jpg)
+ ![alt tag](https://github.com/sameer2800/Chat-Application/blob/master/client.jpg)
 				
 				 client 
 
