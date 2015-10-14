@@ -1,4 +1,4 @@
-Description :
+##Description :
 	
 	A java GUI based Chat application made by using socket programming and
 	thread programming. It supports multiple clients also. Encryption technique 
@@ -6,13 +6,13 @@ Description :
 	 better security. Authentication is required when u run the GUI codes 
 	 and password is root. :) 
 
-Installation :
+##Installation :
 	
 	Clone the project and run it by using normal java commands. else import
 	the project in netbeans as i made it in netbeans. 
 
 
-Design and Details :
+##Design and Details :
 	
 	this project contains 4 packages in total.so we can send information 
 	continously without waiting from other side. Every client requires 
@@ -32,11 +32,12 @@ Design and Details :
 		Description : A complete GUI for a single server to a single client.
 
 	package 4 : multipleclients-single server (GUI)
-		Description : this is exactly like groupchat in facebook and in additional server also can send messages to all the clients.
+		Description : this is exactly like groupchat in facebook and in additional 
+		server also can send messages to all the clients.
 
 	package 5 : encrytped multipleclients-single server (GUI) (JEC - encryption)
 		Description : I Encrypted messages by using cipher and secretkey .I used same
-secretkey both in server and client side and an instance of Cipher.	
+		secretkey both in server and client side and an instance of Cipher.	
 
 
 
